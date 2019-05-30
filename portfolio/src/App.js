@@ -7,6 +7,17 @@ function App() {
       <header className="App-header">
         Kevin Nguyen's Portfolio Website
       </header>
+      <div className="profiles">
+        <a href="https://github.com/Kevnien">
+          GitHub
+        </a>
+        <a href="https://www.linkedin.com/in/kevin-nguyen-835470b9/">
+          LinkedIn
+        </a>
+        <a href="https://drive.google.com/file/d/1xJ1Yx8w03yJUVaYSTJhjMOGE3NFp6kln/view">
+          resume
+        </a>
+      </div>
       <div className="items">
         <div className="one">
           <div className="item-title item-div">
